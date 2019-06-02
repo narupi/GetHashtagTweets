@@ -3,6 +3,7 @@
 ツイート本文とツイート時刻をactivity.txtに保存します  
 ```bash
 
+#activity.txt
 test1
 2019 May/31(Fri) 14:40:53
 
