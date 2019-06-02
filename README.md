@@ -2,6 +2,7 @@
 特定ユーザのツイートから特定のハッシュタグの付いたツイートを取得するツール  
 
 
+  
 ## 使い方
 ※このツールはTwitterApiキーが必要です  
 
@@ -28,7 +29,9 @@ ACCESS_TOKEN_SECRET = ""
 #Twitter id
 SCREEN_NAME = ""
 
-KEYWORD_HASHTAG = "test"
+#Hashtag(#はつけない)
+#KEYWORD_HASHTAG = "test"
+KEYWORD_HASHTAG = ""
 
 ```
 
