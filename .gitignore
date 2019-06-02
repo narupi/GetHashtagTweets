@@ -1,0 +1,5 @@
+activity.txt
+activity_id.txt
+config.py
+__pycache__/
+.vscode/
